@@ -5,6 +5,7 @@ HELP.md
 bin/
 mvnw
 mvnw.cmd
+
 ### STS ###
 .apt_generated
 .classpath
@@ -30,3 +31,4 @@ mvnw.cmd
 
 ### VS Code ###
 .vscode/
+
