@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example.docker.pipeline</groupId>
-	<artifactId>integration-tests</artifactId>
+	<artifactId>docker-based-integration-tests</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>integration-tests</name>
+	<name>docker-based-integration-tests</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
